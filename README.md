@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Drug Network Graph Visualization
 
 This project visualizes drug relationships and their topics using an interactive network graph. The visualization is built using NetworkX and Pyvis.
@@ -29,3 +30,6 @@ docker build -t drug-network-graph .
 docker run -v $(pwd):/app drug-network-graph
 ```
 Note: The volume mount is necessary to access the input JSON file and save the output HTML file. 
+=======
+# semantic_graph_bipartite
+>>>>>>> b331a1e76785ce094c92a4e3a9d78ae659dd0591
